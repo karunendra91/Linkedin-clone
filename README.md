@@ -4,7 +4,7 @@ It mimics the layout of LinkedIn’s homepage — including the navbar, profile 
 Ideal for frontend practice and portfolio building! 🎯✨
 
 
-![Alt text](images/logo.png)
+(images/logo.png)
 
 
 ## ✨ Features
