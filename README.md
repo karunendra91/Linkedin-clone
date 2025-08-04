@@ -3,6 +3,10 @@
 It mimics the layout of LinkedIn’s homepage — including the navbar, profile card, feed, and sidebar.  
 Ideal for frontend practice and portfolio building! 🎯✨
 
+
+![Alt text](images/logo.png)
+
+
 ## ✨ Features
 
 ✅ Responsive navigation bar  
