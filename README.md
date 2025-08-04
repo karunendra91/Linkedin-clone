@@ -4,7 +4,12 @@ It mimics the layout of LinkedIn’s homepage — including the navbar, profile 
 Ideal for frontend practice and portfolio building! 🎯✨
 
 
-(images/logo.png)
+## 🧑‍💻 User Interface Overview
+![Alt text](images/cover1.png)
+<hr>
+![Alt text](images/cover2.png)
+
+
 
 
 ## ✨ Features
