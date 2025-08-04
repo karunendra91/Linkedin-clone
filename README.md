@@ -6,8 +6,7 @@ Ideal for frontend practice and portfolio building! 🎯✨
 
 ## 🧑‍💻 User Interface Overview
 ![Alt text](images/cover1.png)
-<hr>
-![Alt text](images/cover2.png)
+
 
 ## ✨ Features
 
